@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="guess-the-number_Template" />
         <module name="Guess_the_number" />
+        <module name="spring-boot-rest-jdbc-guess-the-number-rest-service-Alice-Phan" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Guess_the_number" options="-parameters" />
       <module name="guess-the-number_Template" options="-parameters" />
+      <module name="spring-boot-rest-jdbc-guess-the-number-rest-service-Alice-Phan" options="-parameters" />
     </option>
   </component>
 </project>
